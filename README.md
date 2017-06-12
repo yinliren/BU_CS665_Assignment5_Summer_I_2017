@@ -1,2 +1,3 @@
 # BU_CS665_Assignment5_Summer_I_2017
 Summer I 2017 - Assignment 5
+The application interpreted in this assignment will be a Weather App developed in Java. This will be an entirely separated application compared to the software in other assignments and labs. The Weather App basically shows a main search bar at the beginning. User are allowed to search city. The application can show 5-day forecast as requested, and the application can also show current weather condition for the city the user types in. Advertisement will be shown on the main menu. The application could push notification to users if there are any extreme weather condition forecasted.
